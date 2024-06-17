@@ -6,8 +6,30 @@ Welcome to the hole of vrchat logged avatar.
 
 AvatarId
 ```ansi
+-
+Avatar Info for Rebeca
+Avatar ID
 avtr_7cefc220-9f4d-477b-960a-192650029ff7
+Author Name
+N3K0_XwX
+Author ID
+usr_3c0662c5-4960-4313-a215-e7f96248b9b1
+Status
+public
+-
+
+-
+Avatar Info for Succubus Wicker
+Avatar ID
 avtr_bfdf4621-3224-436d-bc59-abaf4324d9a0
+Author Name
+DerrDoktor
+Author ID
+usr_8a1fb98c-a5b8-497a-b68d-6f9c561755d3
+Status
+public
+-
+
 avtr_2fbd5892-883e-4b14-a22e-9b2dadb54399
 avtr_f5bce80f-970c-4216-a15f-d6148783affd
 avtr_e4637be4-c817-4f49-a567-a59c141fd834
