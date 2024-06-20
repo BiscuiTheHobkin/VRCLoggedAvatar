@@ -1,35 +1,13 @@
 # VRCLoggedAvatar
 
-# Total logged avatar : 534
+# Total logged avatar : 539
 
 Welcome to the hole of vrchat logged avatar.
 
 AvatarId
 ```ansi
--
-Avatar Info for Rebeca
-Avatar ID
 avtr_7cefc220-9f4d-477b-960a-192650029ff7
-Author Name
-N3K0_XwX
-Author ID
-usr_3c0662c5-4960-4313-a215-e7f96248b9b1
-Status
-public
--
-
--
-Avatar Info for Succubus Wicker
-Avatar ID
 avtr_bfdf4621-3224-436d-bc59-abaf4324d9a0
-Author Name
-DerrDoktor
-Author ID
-usr_8a1fb98c-a5b8-497a-b68d-6f9c561755d3
-Status
-public
--
-
 avtr_2fbd5892-883e-4b14-a22e-9b2dadb54399
 avtr_f5bce80f-970c-4216-a15f-d6148783affd
 avtr_e4637be4-c817-4f49-a567-a59c141fd834
@@ -562,4 +540,9 @@ avtr_e376e021-80fc-4c08-83f0-3afd57ae7fb0
 avtr_eab3d155-1b2e-4e80-bf0b-968272768a94
 avtr_d982a075-57e1-4de1-a46e-965a07028738
 avtr_db05f829-a527-4d46-a22e-ba2378cf3a22
+avtr_df889354-f734-4c64-a908-3cfb85d2ffe5
+avtr_2c0f6a01-949a-4891-9525-261daeb889e6
+avtr_2ba5f101-fe64-4110-a9c7-bb2d1a06d500
+avtr_4159e5a8-bee5-4466-8232-f6d32c35af02
+avtr_d40d24b4-0109-4a70-8fa0-05cbbb735598
 ```
